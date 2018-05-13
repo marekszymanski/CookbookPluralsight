@@ -1,0 +1,2 @@
+# CookbookPluralsight
+Trening gita
