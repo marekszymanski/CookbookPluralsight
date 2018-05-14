@@ -8,3 +8,6 @@ pre made pastry
 10 Granny Smith apples
 
 to jest dolozone z origin master
+
+
+nowe dolozenie git fetch git checkout
