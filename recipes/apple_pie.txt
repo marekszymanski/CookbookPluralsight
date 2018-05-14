@@ -14,3 +14,6 @@ nowe dolozenie git fetch git checkout
 
 
 nowy tekst do git fetch
+
+
+NAJNOWSZY FETCH
