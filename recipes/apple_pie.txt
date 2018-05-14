@@ -17,3 +17,8 @@ nowe dolozenie git fetch git checkout
 
 nowy tekst do git fetch
 
+<<<<<<< HEAD
+=======
+
+NAJNOWSZY FETCH
+>>>>>>> c1e758624d1fd1545ddbd383c5adabd19bbc4997
