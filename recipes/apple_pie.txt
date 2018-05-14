@@ -7,18 +7,4 @@ pre made pastry
 1 tbsp cinnamo
 10 Granny Smith apples
 
-to jest cos dolozone lokalnie
-
-to jest dolozone z origin master
-
-
-nowe dolozenie git fetch git checkout
-
-
-nowy tekst do git fetch
-
-<<<<<<< HEAD
-=======
-
-NAJNOWSZY FETCH
->>>>>>> c1e758624d1fd1545ddbd383c5adabd19bbc4997
+dolozenie zmian na githubie
