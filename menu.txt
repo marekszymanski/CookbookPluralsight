@@ -16,4 +16,7 @@ dodanie w nowym branchu
 
 =======
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> 55f480c... dsfasdfdasf
+=======
 >>>>>>> 55f480c... dsfasdfdasf
