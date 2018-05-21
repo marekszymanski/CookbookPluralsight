@@ -11,3 +11,17 @@ kotlet ziemniaczki
 
 ------ SYMULACJA-------
 mleko
+
+
+
+
+
+
+
+
+
+
+
+------- napoje ------
+woda 
+piwo
