@@ -13,3 +13,7 @@ kotlet ziemniaczki
 mleko
 woda
 chleb
+
+dodanie owocow
+truskawka
+jablko
