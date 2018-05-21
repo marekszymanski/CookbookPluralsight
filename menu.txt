@@ -8,5 +8,19 @@ platki z mlekiemI
 kawa z cukrem
 
 kotlet ziemniaczki
+<<<<<<< Updated upstream
 
+<<<<<<< HEAD
 cos tam cos tam
+=======
+<<<<<<< HEAD
+=======
+dodanie w nowym branchu
+
+=======
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> 55f480c... dsfasdfdasf
+=======
+>>>>>>> 55f480c... dsfasdfdasf
+>>>>>>> cf241b47bd9462ef564d4582ae33e48df09af6af
