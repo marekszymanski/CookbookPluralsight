@@ -11,6 +11,7 @@ kotlet ziemniaczki
 
 ------ SYMULACJA-------
 mleko
+<<<<<<< HEAD
 
 
 
@@ -25,3 +26,11 @@ mleko
 ------- napoje ------
 woda 
 piwo
+=======
+woda
+chleb
+
+dodanie owocow
+truskawka
+jablko
+>>>>>>> task
