@@ -11,3 +11,4 @@ kotlet ziemniaczki
 
 ------ SYMULACJA-------
 mleko
+woda
